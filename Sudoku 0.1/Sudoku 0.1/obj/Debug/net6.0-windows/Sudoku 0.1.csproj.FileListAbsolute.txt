@@ -1,0 +1,72 @@
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.exe
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.deps.json
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.runtimeconfig.json
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.dll
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.pdb
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.AssemblyReference.cache
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Sudoku.resources
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.GenerateResource.cache
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfoInputs.cache
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfo.cs
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.CoreCompileInputs.cache
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.dll
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\refint\Sudoku 0.1.dll
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.pdb
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.genruntimeconfig.cache
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\ref\Sudoku 0.1.dll
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.exe
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.deps.json
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.runtimeconfig.json
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.dll
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.pdb
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.AssemblyReference.cache
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Sudoku.resources
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.GenerateResource.cache
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfoInputs.cache
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfo.cs
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.CoreCompileInputs.cache
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.dll
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\refint\Sudoku 0.1.dll
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.pdb
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.genruntimeconfig.cache
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\ref\Sudoku 0.1.dll
+E:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Properties.Resources.resources
+G:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Properties.Resources.resources
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.exe
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.deps.json
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.runtimeconfig.json
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.dll
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.pdb
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.AssemblyReference.cache
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Sudoku.resources
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Properties.Resources.resources
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.GenerateResource.cache
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfoInputs.cache
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfo.cs
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.CoreCompileInputs.cache
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.dll
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\refint\Sudoku 0.1.dll
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.pdb
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.genruntimeconfig.cache
+F:\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\ref\Sudoku 0.1.dll
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.exe
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.deps.json
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.runtimeconfig.json
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.dll
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\bin\Debug\net6.0-windows\Sudoku 0.1.pdb
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.AssemblyReference.cache
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Sudoku.resources
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku_0._1.Properties.Resources.resources
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.GenerateResource.cache
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfoInputs.cache
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.AssemblyInfo.cs
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.dll
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\refint\Sudoku 0.1.dll
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.pdb
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\Sudoku 0.1.genruntimeconfig.cache
+C:\Users\Terer\Desktop\INFO\Atestat C#\Sudoku 0.1\Sudoku 0.1\obj\Debug\net6.0-windows\ref\Sudoku 0.1.dll
